@@ -10,6 +10,7 @@ namespace testigapplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome");
             Console.Write("dotnet");
             Console.Read();
         }
